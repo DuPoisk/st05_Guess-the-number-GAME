@@ -20,9 +20,13 @@ let xAttempts = 1
     const inputNumber = document.querySelector("#inputNumber")
 
     if(Number(inputNumber.value == randomNumber)){ 
-      toggleScreen()      
-      screen2.querySelector("h2").innerText = `acertou em ${xAttempts} tentativas!`
-      //acima adicionei texto dentro de um elemento
+      toggleScreen() 
+      if (xAttempts == 1){
+       screen2.querySelector("h2").innerText = `WOW! You got it in ${xAttempts} attempt!` 
+      } else {
+      screen2.querySelector("h2").innerText = `You got it in ${xAttempts} attempts!`
+      }
+      
     }
     
     inputNumber.value = ""

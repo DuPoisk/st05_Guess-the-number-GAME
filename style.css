@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  background: linear-gradient(287.56deg, #C2E9FB 0%, #A1C4FD 100%); /*gradient means degrade*/
+  font-size: 1.6rem;
+
+  display: grid;
+  place-items: center; /*make the box centralized in x axis*/
+
+  height: 100vh; /*make the box centralized in y axis*/
+}
+
+body, button, input {
+  font-family: 'DM Sans', sans-serif;
+}
+
+button {
+  background-color: #7879f1;
+  color: white; /* text color*/
+  font-weight: bold;
+  border-radius: 0 0.4rem 0.4rem 0;
+
+  transition: background-color 0.3s;
+}
+
+button:hover{
+  background-color: #6b6bd7;
+}
+
+.hide {
+  display: none;
+}
+
+main {
+  background: #FFFFFF;
+  box-shadow: 0rem 0.2rem 0.4rem rgba(0, 0, 0, 0.1);/* displacement of x axis, displacement of y axis, blur*/
+  border-radius: 0.6rem;
+  padding: 4.8rem 6.4rem 6.4rem;
+
+  width: min(42.8rem, 90%); /*make it dynamic. if the screen become smaller, it will be 90% of the original width */
+  margin-top: -12rem; /* make the box go a little bit up. "this is more harmonic design"*/
+
+  text-align: center; /*align texts to: center */
+}
+
+
+/*SCREEN1*/
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4rem;
+  margin-bottom: 1.6rem;
+}
+
+h1, p {
+  color: #34355B;
+}
+
+p {
+  opacity: 0.8;
+}
+
+form {
+  margin-top: 4.8rem;
+  display: flex; /*to exclude the space between the input and button*/
+  justify-content: center;/*align input and button to center*/
+}
+
+input, button {
+  border: none;
+  padding: 1.6rem;
+  border-radius: 0.4rem 0 0 0.4rem;
+}
+
+input {
+  background-color: #DCE2E9;
+  width: 7rem;
+}
+
+
+/*SCREEN 2*/
+h2 {
+  font-size: 2.4rem ;
+  font-weight: normal;
+  margin-bottom: 3.3rem ;
+}
+
+.screen2 button {
+  border-radius: 0.4rem;
+}

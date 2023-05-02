@@ -28,7 +28,7 @@ Developing this project provided me the chance to test/ practice:
   * adding texts inside an element (with JavaScript)
 
 
-- [Check the project online](https://dupoisk.github.io/st05_Guess-the-number-GAME/)
+ :rotating_light: [Check the project online](https://dupoisk.github.io/st05_Guess-the-number-GAME/)
 
 
  < / > by [Juliana Duarte](https://www.linkedin.com/in/juliana-duarte-5a0742140/)

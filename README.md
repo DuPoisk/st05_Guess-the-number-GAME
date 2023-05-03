@@ -29,10 +29,13 @@ Developing this project provided me the chance to test/ practice:
   * adding texts inside an element (with JavaScript)
 
 <br>
- :rotating_light: [Check the project online HERE.](https://dupoisk.github.io/st05_Guess-the-number-GAME/)
+ :rotating_light: 
+ <a href = "https://dupoisk.github.io/st05_Guess-the-number-GAME/"> Check the project online (website) HERE! </a>
 <br>
 <br>
 <br>
-> < / > by [Juliana Duarte](https://www.linkedin.com/in/juliana-duarte-5a0742140/), suggested by Rocketseat - Explorer course:purple_heart:
+< / > by <a href ="https://www.linkedin.com/in/juliana-duarte-5a0742140/">Juliana Duarte</a>, suggested by Rocketseat - Explorer course:purple_heart:
+                                                                                   
+
 
 

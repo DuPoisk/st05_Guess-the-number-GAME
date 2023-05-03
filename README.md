@@ -4,8 +4,8 @@
 
 ## :sparkles: LAYOUT
 <span align="center">
- <img src="https://user-images.githubusercontent.com/70992473/235786707-330728ab-1df1-4385-9d06-ff39f29c435d.png" height="300px" />
- <img src="https://user-images.githubusercontent.com/70992473/235808126-05fdae9a-2b9d-4ce7-a1a1-e3a13a221477.png" height="300px" />
+ <img src="https://user-images.githubusercontent.com/70992473/235786707-330728ab-1df1-4385-9d06-ff39f29c435d.png" height="320px" />
+ <img src="https://user-images.githubusercontent.com/70992473/235808126-05fdae9a-2b9d-4ce7-a1a1-e3a13a221477.png" height="320px" />
 </span>
 
 ## 🚀 TECHNOLOGIES
